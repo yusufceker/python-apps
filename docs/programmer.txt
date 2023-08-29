@@ -1,0 +1,14 @@
+Hi!
+
+This is Yusuf Çeker.
+I'm 12 years old Python Programmer.
+
+I'm interested in AI,GUI,Websites,Databases.
+
+You can look my little website
+website = yusufceker.blogspot.com
+
+There are lots of Python and HTML repositories in my gitHup profile.
+
+                                                                                                            Yusuf Çeker
+                                                                                                               2023

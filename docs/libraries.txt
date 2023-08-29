@@ -1,0 +1,10 @@
+There are the libraries that I coded by using them.
+
+------- Tkinter(GUI)
+------- SQLite(sqlite3)
+------- Messagebox(from Tkinter)
+------- Mixer(from Pygame)
+------- Requests
+------- Time
+------- Thread(from threading)
+------- Datetime
